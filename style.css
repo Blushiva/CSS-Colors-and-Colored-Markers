@@ -25,17 +25,17 @@ between them to make it easier to see each element.*/
 
 /*marker one is red*/
 /*updated to yellow*/
-
+/*updated to teritary colors*/
 .one {
-    background-color: rgb(255, 255, 0);
+    background-color: rgb(255, 127, 0);
 }
 /*marker two is green*/
 /*updated to cyan*/
 .two {
-    background-color: rgb(0, 255, 255);
+    background-color: rgb(0, 255, 127);
 }   
 /*marker three is blue*/
 /*updated to magenta*/
 .three {
-    background-color: rgb(255, 0, 255);
+    background-color: rgb(127, 0, 255);
 }
