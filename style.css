@@ -2,9 +2,8 @@ h1 {
   text-align: center;
 }
 
-/*targets the class marker sets background color, height and width*/
+/*targets the class marker, sets background, height and width*/
 .marker {
-    ;
     height: 25px;
     width: 200px;
 /*sets all margin-top, margin-right, margin-bottom, 
@@ -13,6 +12,8 @@ and margin-left all to auto.*/
 look like one big rectangle. We are adding some space 
 between them to make it easier to see each element.*/
     margin: 10px auto;
-    
-    
+}
+/*marker one is red*/
+.one {
+    background-color: #FF0000;
 }
