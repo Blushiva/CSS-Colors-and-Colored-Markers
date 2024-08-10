@@ -31,7 +31,7 @@ between them to make it easier to see each element.*/
 /*updated to pure black*/
 /*updated to complimentary colors*/
 .red {
-    background-color: rgb(255, 0, 0);
+    background: rgb(255, 0, 0);
 }
 /*marker two is green*/
 /*updated to cyan*/
