@@ -25,22 +25,34 @@ between them to make it easier to see each element.*/
     margin: 10px auto;
 }
 
+/*created a sleeve for the marker and worked on opacity*/
+.sleeve {
+    height: 25px;
+    width: 110px;
+    background-color: rgb(255, 255, 255);
+}
 /*marker one is red*/
 /*updated to yellow*/
 /*updated to teritary colors*/
 /*updated to pure black*/
 /*updated to complimentary colors*/
 /*added gradient and color-stops*/
+/*this is an rgb color gradient example*/
+/*left color stops in for example but the color stops can 
+be removed to clean up code*/
 .red {
-    background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(0, 255, 0) 50%, rgb(0, 0, 255) 100%);
+    background: linear-gradient( rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27) 100%);
 }
-/*marker two is green*/
+/*marker two is green, gradient to marker example is a hecidecimal*/
 /*updated to cyan*/
+/*left the 90deg in for example can take out to clean code*/
 .green {
-    background-color: #007F00;
+    background: linear-gradient(90deg, #55680D, #71F53E, #116C31);
 }   
 /*marker three is blue*/
 /*updated to magenta*/
+/*gradient to the blue marker, this time using the hsl 
+function as color arguments.*/
 .blue {
-    background-color: hsl(240, 100%, 50%);
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
 }
