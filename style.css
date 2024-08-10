@@ -30,8 +30,9 @@ between them to make it easier to see each element.*/
 /*updated to teritary colors*/
 /*updated to pure black*/
 /*updated to complimentary colors*/
+/*added gradient and color-stops*/
 .red {
-    background: rgb(255, 0, 0);
+    background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(0, 255, 0) 50%, rgb(0, 0, 255) 100%);
 }
 /*marker two is green*/
 /*updated to cyan*/
