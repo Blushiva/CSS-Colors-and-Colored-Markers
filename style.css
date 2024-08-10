@@ -36,13 +36,18 @@ between them to make it easier to see each element.*/
 /*The border-left-width property sets the width of the border.*/
 /*The border-left-style property sets the style of the border.*/
 /*The border-left-color property sets the color of the border.*/
+/*The border-left property is a shorthand property for setting
+the width, style, and color of the left border of an element.*/
 .sleeve {
     height: 25px;
     width: 110px;
     background-color: rgb(255, 255, 255, 0.5);
+    border-left: 10px, solid, black;
+    /*  longhand version of the border-left property 
     border-left-width: 10px;
     border-left-style: solid;
-    border-left-color: black;
+    border-left-color: black;*/
+
     
 }
 
@@ -72,9 +77,9 @@ be removed to clean up code*/
 }
 /*marker two is green, gradient to marker example is a hecidecimal*/
 /*updated to cyan*/
-/*left the 90deg in for example can take out to clean code*/
+/*left the 180deg in for example can take out to clean code*/
 .green {
-    background: linear-gradient(90deg, #55680D, #71F53E, #116C31);
+    background: linear-gradient(180deg, #55680D, #71F53E, #116C31);
 }   
 /*marker three is blue*/
 /*updated to magenta*/
