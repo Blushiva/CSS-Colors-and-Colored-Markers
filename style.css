@@ -43,7 +43,7 @@ side note: don't use commas just spaces.*/
     height: 25px;
     width: 110px;
     background-color: rgb(255, 255, 255, 0.5);
-    border-left: 10px double black;
+    border-left: 10px double rgba(0, 0, 0, 0.75);
     /*  longhand version of the border-left property 
     border-left-width: 10px;
     border-left-style: solid;
@@ -90,4 +90,19 @@ be removed to clean up code*/
 function as color arguments.*/
 .blue {
     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+}
+
+/*marker four is yellow*/
+.yellow {
+    background: linear-gradient( #F5F50D, #F5A30D, #F5F50D);
+}
+
+/*marker five is purple*/   
+.purple {
+    background: linear-gradient(#6D0D68, #F50D9E, #6D0D68);
+}
+
+/*marker six is orange*/        
+.orange {
+    background: linear-gradient(#F5A30D, #f87306, #F5A30D);
 }
