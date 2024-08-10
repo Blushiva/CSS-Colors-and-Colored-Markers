@@ -72,16 +72,20 @@ appearing side by side.*/
 /*this is an rgb color gradient example*/
 /*left color stops in for example but the color stops can 
 be removed to clean up code*/
+/*added a box shadow to the marker, offsetX, offsetY, blurRadius, spread radius and red for color*/
 .red {
     background: linear-gradient( rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27) 100%);
+    box-shadow: 0px 0px 20px 0px rgb(83, 14, 14, 0.8);
     
 }
 
 /*marker two is green, gradient to marker example is a hecidecimal*/
 /*updated to cyan*/
 /*left the 180deg in for example this can be taken out to clean the code*/
+/*added a box shadow to the marker, offsetX, offsetY green for color*/
 .green {
     background: linear-gradient(180deg, #55680D, #71F53E, #116C31);
+    box-shadow: 0px 0px 15px 1px green;
 }   
 
 /*marker three is blue*/
@@ -90,11 +94,13 @@ be removed to clean up code*/
 function as color arguments.*/
 .blue {
     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+    box-shadow: 0px 0px 10px 1px blue;
 }
 
 /*marker four is yellow*/
 .yellow {
     background: linear-gradient( #F5F50D, #F5A30D, #F5F50D);
+    box-shadow: 0px 0px 20px 1px yellow;
 }
 
 /*marker five is purple*/   
