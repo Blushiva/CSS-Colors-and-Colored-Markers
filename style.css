@@ -32,12 +32,31 @@ between them to make it easier to see each element.*/
 }
 
 /*created a sleeve for the marker and worked on 0.5 opacity*/
+/*added a border to the sleeve element.*/
+/*The border-left-width property sets the width of the border.*/
+/*The border-left-style property sets the style of the border.*/
+/*The border-left-color property sets the color of the border.*/
 .sleeve {
     height: 25px;
     width: 110px;
     background-color: rgb(255, 255, 255, 0.5);
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color: black;
     
 }
+
+/*Targets both the .cap and .sleeve classes and sets the 
+display property to inline-block. This will make the elements
+appear next to each other horizontally, rather than stacking
+on top of each other. This will make the marker look more 
+like a single unit, with the cap and sleeve elements 
+appearing side by side.*/
+.cap, 
+.sleeve {
+  display: inline-block;
+}
+
 /*marker one is red*/
 /*updated to yellow*/
 /*updated to teritary colors*/
