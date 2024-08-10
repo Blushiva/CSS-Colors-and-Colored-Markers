@@ -1,7 +1,7 @@
 # CSS Colors and Colored Markers
- This is another project example of notation and how to read code while learning code and doing repetition all while, building color markers and understanding how color and shadow work in a CSS style sheet.
+ This is another project example of notation and how to read code while learning code and doing repetition all while, building color markers and understanding how color and shadow work in a CSS style sheet. 
 
- To use this project not for the code itself but as a good blueprint of what a beginning project should look like and as a reference for future projects.
+ I used this project not for the code itself but as a good blueprint of what a beginning project should look like and as a reference for future projects.
 
  ##Inspiration for this project
 
