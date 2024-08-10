@@ -30,6 +30,7 @@ between them to make it easier to see each element.*/
     height: 25px;
     width: 110px;
     background-color: rgb(255, 255, 255);
+    opacity: 0.5;
 }
 /*marker one is red*/
 /*updated to yellow*/
@@ -42,6 +43,7 @@ between them to make it easier to see each element.*/
 be removed to clean up code*/
 .red {
     background: linear-gradient( rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27) 100%);
+    
 }
 /*marker two is green, gradient to marker example is a hecidecimal*/
 /*updated to cyan*/
