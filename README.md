@@ -14,6 +14,6 @@
 
  If you can, support them financially.  Please Donate!!!
  
- Growing up as a poor kid I did not have access to technology and had to sneak time on my school computer. I had to fight tooth and nail to get by.  I don't want others to suffer from lack of resources.  Please, help change that, so that everyone has access to technology and that their lives can improve without struggling the way that I did. Just because one person stuggled doesn't mean others have to.  If you can help, please do so.
+ Growing up as a poor kid I did not have access to technology and had to sneak time on my school computer. I had to fight tooth and nail to get by.  I don't want others to suffer from lack of resources.  Please help change that. Let's change the world by making sure that everyone has access to technology and that peoples lives can improve without struggling the way that I and others have. Just because one person stuggles doesn't mean others have to.  If you can help, please do so.
 
 
